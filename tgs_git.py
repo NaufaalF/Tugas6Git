@@ -75,3 +75,5 @@ for key, value in data_panen.items():
         print(f"{nama_lokasi} dalam kondisi baik.")
     
     #ubah1
+
+    #ubah2
