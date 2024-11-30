@@ -74,7 +74,5 @@ for key, value in data_panen.items():
     else:
         print(f"{nama_lokasi} dalam kondisi baik.")
     
-    #ubahbaruasdasdsad
-
-    #ubahmain
-    #blabalbalbala
+    print("ubah")
+    
