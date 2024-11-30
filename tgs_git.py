@@ -73,3 +73,5 @@ for key, value in data_panen.items():
         print(f"{nama_lokasi} memerlukan perhatian khusus.")
     else:
         print(f"{nama_lokasi} dalam kondisi baik.")
+    
+    #ubah1
